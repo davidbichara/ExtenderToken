@@ -1,5 +1,6 @@
 pragma solidity ^0.4.21;
 
+//imported standard EIP20Interface
 
 contract EIP20Interface {
     /* This is a slight change to the ERC20 base standard.
